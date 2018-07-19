@@ -61,7 +61,7 @@ is depicted in the following table:
 |                     | Photon-counting :math:`\ketbra{n}{n}`                        | :math:`\ketbra{0/1}{0/1}, \ketbra{\pm}{\pm}, \ketbra{\pm i}{\pm i}` |
 +---------------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
-.. note:: Qubit-based computations can be embedded into the CV picture, e.g., by using the *Gottesman-Knill-Preskill (GKP) embedding* :cite:`lloyd1998analog`:cite:`braunstein1998error`:cite:`gottesman2001encoding`, so the CV model is as computationally powerful as its qubit counterparts. 
+.. note:: Qubit-based computations can be embedded into the CV picture, e.g., by using the *Gottesman-Kitaev-Preskill (GKP) embedding* :cite:`lloyd1998analog`:cite:`braunstein1998error`:cite:`gottesman2001encoding`, so the CV model is as computationally powerful as its qubit counterparts. 
 
 
 The most elementary CV system is the bosonic harmonic
